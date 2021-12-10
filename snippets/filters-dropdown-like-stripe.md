@@ -48,6 +48,7 @@ Use the `transform` utilities to apply a 2D or 3D transformation to an element. 
     <div class="transform skew-x-12"></div>
     <div class="transform scale-50"></div>
 </div>
+```
 
 ## Remove transform
 
