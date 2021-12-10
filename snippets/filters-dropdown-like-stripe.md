@@ -1,6 +1,6 @@
 ---
 title: Filters dropdown like Stripe
-tags: components, filters
+tags: components
 created_at: 2020-10-08T20:48:11+03:00
 updated_at: 2020-10-08T20:48:11+03:00
 ---
