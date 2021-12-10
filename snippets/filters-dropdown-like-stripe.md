@@ -24,7 +24,7 @@ updated_at: 2020-10-08T20:48:11+03:00
 
 Use the `transform` utilities to apply a 2D or 3D transformation to an element. This property allows you to rotate, scale, rotate, move or skew elements.
 
-<div class="docs-example bg-surface-secondary rounded p-16">
+<div class="snippet-example bg-surface-secondary rounded p-16">
     <div class="d-flex gap-16">
         <div class="bg-soft-primary p-3 rounded d-flex align-items-center justify-content-center">
             <div class="bg-primary transform translate-x-n1/2 translate-y-n1/2 w-20 h-20 rounded"></div>
